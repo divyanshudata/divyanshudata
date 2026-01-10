@@ -60,6 +60,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
 </picture>
 
+![Pacman Contribution Graph](https://github.com/divyanshudata/divyanshudata/blob/output/dist/pacman-contribution-graph.svg)
 ###
 
 <h3 align="left">🤝 Connect With Me</h3>
