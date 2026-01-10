@@ -33,10 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudata&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -49,10 +49,7 @@
   />
 </div>
 
-
-
 <h3 align="left">🤝 Connect With Me</h3>
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/divyanshu-verma-2a0706322/" target="_blank">
@@ -74,7 +71,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="30" alt="telegram logo"  />
   </a>
 </div>
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=divyanshudata.divyanshudata&left_text=%F0%9F%91%80%20Profile%20Visitors"  />
