@@ -44,23 +44,25 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshudata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img
+    src="https://streak-stats.demolab.com?user=divyanshudata&theme=dark&hide_border=false"
+    height="220"
+    alt="streak graph"
+  />
 </div>
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph"
+       src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
 </picture>
 
-![Pacman Contribution Graph](https://github.com/divyanshudata/divyanshudata/blob/output/dist/pacman-contribution-graph.svg)
 ###
 
 <h3 align="left">🤝 Connect With Me</h3>
