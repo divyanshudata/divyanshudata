@@ -30,13 +30,9 @@
 
 ## 🔥 My Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=divyanshudata&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 <h3 align="left">🤝 Connect With Me</h3>
 
