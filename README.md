@@ -2,23 +2,14 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-
 <h2 align="left">👋 Welcome to my GitHub — where ideas turn into code.</h2>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">Hi 👋, I’m Divyanshu verma, a Computer Science Engineering student 🎓 with a strong interest in Android Development 📱 and Software Development 💻. I enjoy exploring how software and modern technologies can be used to solve real-world problems 🌍 and create meaningful digital solutions.<br><br>I’m highly curious about learning new technologies 🚀, frameworks, and development tools. While my main focus is on building Android applications, I’m also interested in understanding the complete software development lifecycle 🔁 — from idea 💡 and design 🎨 to development 🛠️, testing 🧪, and deployment 🚢.<br><br>I strongly believe in learning by doing 📚➡️💻, which is why I spend most of my time working on practical, real-world projects 🔧. Building projects helps me sharpen my problem-solving skills 🧠, write clean and efficient code ✨, and understand how scalable and maintainable software is developed 🏗️.<br><br>Currently, I’m improving my skills in Android development 📱, software engineering concepts 🧩, while also exploring new and emerging technologies 🌱. I’m always eager to learn, collaborate, and grow 🤝 as a developer.</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -34,15 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
-
 <h3 align="left">🏆 Achievements</h3>
 
-###
-
 <p align="left">🥇 Qualified Smart India Hackathon (Internal Round) – September 2025<br>☁️ Completed Google Cloud Study Jams – October 2025<br>🥇 Selected in Top 15 Teams at Hack-X-Sprint Hackathon - January2026</p>
-
-###
 
 ## 🔥 My Stats
 
@@ -70,12 +55,8 @@
 
 
 
-
-###
-
 <h3 align="left">🤝 Connect With Me</h3>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/divyanshu-verma-2a0706322/" target="_blank">
@@ -98,10 +79,7 @@
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=divyanshudata.divyanshudata&left_text=%F0%9F%91%80%20Profile%20Visitors"  />
 </div>
-
-###
