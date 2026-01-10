@@ -4,6 +4,10 @@
 
 <h2 align="left">👋 Welcome to my GitHub — where ideas turn into code.</h2>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=35CE8D&center=true&vCenter=true&width=435&lines=Android+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">Hi 👋, I’m Divyanshu verma, a Computer Science Engineering student 🎓 with a strong interest in Android Development 📱 and Software Development 💻. I enjoy exploring how software and modern technologies can be used to solve real-world problems 🌍 and create meaningful digital solutions.<br><br>I’m highly curious about learning new technologies 🚀, frameworks, and development tools. While my main focus is on building Android applications, I’m also interested in understanding the complete software development lifecycle 🔁 — from idea 💡 and design 🎨 to development 🛠️, testing 🧪, and deployment 🚢.<br><br>I strongly believe in learning by doing 📚➡️💻, which is why I spend most of my time working on practical, real-world projects 🔧. Building projects helps me sharpen my problem-solving skills 🧠, write clean and efficient code ✨, and understand how scalable and maintainable software is developed 🏗️.<br><br>Currently, I’m improving my skills in Android development 📱, software engineering concepts 🧩, while also exploring new and emerging technologies 🌱. I’m always eager to learn, collaborate, and grow 🤝 as a developer.</p>
@@ -30,9 +34,15 @@
 
 ## 🔥 My Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=divyanshudata&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudata&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+</div>
 
 <h3 align="left">🤝 Connect With Me</h3>
 
