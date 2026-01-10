@@ -44,15 +44,20 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+## 🔥 My Stats
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=divyanshudata&theme=dark&hide_border=false"
-    height="220"
-    alt="streak graph"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight" 
+    height="165" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight" 
+    height="165" 
   />
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -62,6 +67,7 @@
   <img alt="Pacman Contribution Graph"
        src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
