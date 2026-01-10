@@ -49,24 +49,29 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight" 
-    height="165" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight" 
-    height="165" 
+    alt="GitHub Stats" 
+    height="165"
   />
 </div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph"
-       src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight" 
+    alt="GitHub Streak" 
+    height="165"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg" 
+    alt="Pacman Contribution Graph"
+  />
+</div>
 
 
 ###
