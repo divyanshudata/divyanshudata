@@ -32,16 +32,12 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudata&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
