@@ -48,9 +48,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshudata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+🔥 My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudata&theme=tokyonight)
+
 
 ###
 
