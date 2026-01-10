@@ -47,31 +47,28 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=divyanshudata&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
   />
 </div>
 
 <br/>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=divyanshudata&theme=tokyonight" 
-    alt="GitHub Streak" 
-    height="165"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph.svg" 
+  <img
+    src="https://raw.githubusercontent.com/divyanshudata/divyanshudata/output/pacman-contribution-graph-dark.svg"
     alt="Pacman Contribution Graph"
   />
 </div>
+
+
 
 
 ###
