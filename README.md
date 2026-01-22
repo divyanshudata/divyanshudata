@@ -34,6 +34,14 @@
 
 ## 🔥 My Stats
 
+<div align="centre">
+    <img src="https://github-readme-stats.vercel.app/api?username=divyanshudata"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudata"/>
+
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudata&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
